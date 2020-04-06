@@ -1,0 +1,30 @@
+{
+  "name": "across",
+  "version": "0.0.1",
+  "description": "Node.js implementation of a multi-threaded map() function",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusMK3/node-across.git"
+  },
+  "keywords": [
+    "worker",
+    "map",
+    "threads",
+    "async",
+    "distributed"
+  ],
+  "author": "Matheus Pratta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusMK3/node-across/issues"
+  },
+  "homepage": "https://github.com/MatheusMK3/node-across#readme"
+}
